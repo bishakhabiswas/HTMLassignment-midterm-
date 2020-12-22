@@ -1,0 +1,127 @@
+*{
+	
+	
+	margin: 0px;
+	padding: 0px;
+	
+	
+}
+
+.header{
+	
+	height: 300px;
+	width: 100%;
+	background-image: url("1Bangladesh%20University.jpg");
+	background-repeat: no-repeat ;
+	background-position: center;
+	background-size:cover;
+	
+	position: absolute;
+}
+
+
+.circle h1{
+	
+	color:chocolate;
+    margin-top: 300px;
+    text-align: center;
+	margin-left: 230px;
+ 
+	
+	
+}
+
+.main{
+	
+	height: 990px;
+	width: 100%;
+	
+      
+	margin-top: 30px;
+	 background-repeat: no-repeat ;
+	background-position: center;
+	background-size: cover;
+   position: absolute;
+	
+	
+	
+	
+	
+}
+.main h2{
+	text-decoration: underline;
+	color: #cccccc;
+	text-align: center;
+	font-size: 30px;
+    text-shadow: 2px 1px black;
+	margin-top: 40px;
+	
+}
+
+.main h2:hover{
+	
+	color:blue;
+}
+
+.picture img{
+    margin-top: 3px;
+    height: 300px;
+    width: 300px;
+    position: absolute;
+    margin-left: 80px;
+    
+}
+.picture{
+	
+	height: 300px;
+	width: 300px;
+ 
+	margin-top: 100px;
+
+}
+.about{
+    
+    position: absolute;
+    margin-top: -320px;
+	height: 700px;
+	width: 500px;
+
+	margin-left: 700px;
+
+	
+}
+.win{
+	 font-size: 1.4vw;
+ 
+        height: 40vw;
+}
+
+.education{
+    margin-top: 350px;
+	
+	height: 200px;
+	widows: 300px;
+	background-color: chocolate;
+	
+}
+.tab{
+    width: 80%; 
+    margin: auto;
+    border: 2px solid gray;
+    
+    position: relative;
+    top: 40px;
+	font-size: 20px;
+	color: antiquewhite;
+	 border-collapse: collapse;
+	text-align: left;
+   
+}
+.footer{
+	font-size: 30px;
+	font-weight: bold;
+	margin-top: 30px;
+    text-align: center;
+	
+	
+}
